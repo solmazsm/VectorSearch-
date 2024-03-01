@@ -11,3 +11,6 @@ By harnessing the power of vector embeddings, the VectorSearch dataset offers re
 
 With its extensive collection of news articles across various topics and sources, the VectorSearch dataset serves as a valuable resource for researchers interested in exploring the dynamics of media content, analyzing trends, and understanding the dissemination of information in the digital age.
 
+# Download Dataset
+All the News:
+https://components.one/datasets/all-the-news-2-news-articles-dataset
