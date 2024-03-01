@@ -18,5 +18,5 @@ NewsCatcher
 
 # Evaluation Implementation
 
-# For any questions, concerns, or comments for improvements, etc, please create an issue on the issues page for this project, or email the authors directly.
+For any questions, concerns, or comments for improvements, etc, please create an issue on the issues page for this project, or email the authors directly.
 
