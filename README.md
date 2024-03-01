@@ -16,3 +16,7 @@ Instructions on how to download the dataset can be found here.
 All the News 
 NewsCatcher
 
+# Evaluation Implementation
+
+# For any questions, concerns, or comments for improvements, etc, please create an issue on the issues page for this project, or email the authors directly.
+
