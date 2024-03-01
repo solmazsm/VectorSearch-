@@ -13,4 +13,4 @@ With its extensive collection of news articles across various topics and sources
 
 # Download Dataset
 All the News: 
-Instructions on how to download the dataset can be found here: 
+Instructions on how to download the dataset can be found here.
