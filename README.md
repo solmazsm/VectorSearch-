@@ -13,4 +13,4 @@ With its extensive collection of news articles across various topics and sources
 
 # Download Dataset
 All the News:
-https://components.one/datasets/all-the-news-2-news-articles-dataset
+Instructions on how to download the dataset can be found here: 
