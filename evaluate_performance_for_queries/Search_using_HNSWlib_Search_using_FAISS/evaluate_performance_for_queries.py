@@ -1,3 +1,9 @@
+;==========================================
+; Title: evaluate_performance_for_queries
+; Author: Solmaz Seyed Monir
+; Date:   3 March 2024
+;==========================================
+
 def evaluate_performance_for_queries(queries, index_hnswlib, index_faiss, model, pdf_subset):
     results_hnswlib = []
     results_faiss = []
