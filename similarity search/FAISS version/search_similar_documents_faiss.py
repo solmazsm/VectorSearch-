@@ -1,3 +1,9 @@
+;==========================================
+; Title:  search_similar_documents_hnswlib
+; Author: Solmaz Seyed Monir
+; Date:   3 March 2024
+;==========================================
+
 def search_similar_documents_faiss(query_text, index, pdf_subset, k=3):
     query_vector = model.encode([query_text])[0]
     _, labels = index.search(query_vector.reshape(1, -1), k)
