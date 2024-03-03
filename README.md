@@ -21,7 +21,7 @@ sports, technology, and the world.
 
 # Evaluation Implementation
 
-The implementation and instructions to run evaluationcan be found <a href= "https://github.com/solmazsm/VectorSearch">here</a>
+The implementation and instructions to run evaluationcan be found <a href= "https://github.com/solmazsm/VectorSearch">here</a>.
 
 For any questions, concerns, or comments for improvements, etc, please create an issue on the issues page for this project, or email the authors directly.
 
