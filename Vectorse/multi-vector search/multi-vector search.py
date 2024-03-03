@@ -1,3 +1,9 @@
+;==========================================
+; Title: multi-vector search
+; Author: Solmaz Seyed Monir
+; Date:   3 March 2024
+;==========================================
+
 def search_content(queries, pdf_to_index, k=3):
     all_results = []
     for query in queries:
