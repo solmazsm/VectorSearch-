@@ -1,3 +1,9 @@
+;==========================================
+; Title: combinations of hyperparameters
+; Author: Solmaz Seyed Monir
+; Date:   3 March 2024
+;==========================================
+
 # Define the parameter grid
 param_grid = {
     'pretrained_model': ["all-MiniLM-L6-v2", "roberta-base", "bert-base-uncased"],
