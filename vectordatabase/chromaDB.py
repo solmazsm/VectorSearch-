@@ -1,3 +1,9 @@
+;==========================================
+; Title:  ChromaDB client
+; Author: Solmaz Seyed Monir
+; Date:   3 March 2024
+;==========================================
+
 import os
 import chromadb
 from chromadb.config import Settings
