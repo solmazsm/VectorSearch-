@@ -1,4 +1,8 @@
-
+;==========================================
+; Title: eEvaluate performance for the set of queries
+; Author: Solmaz Seyed Monir
+; Date:   3 March 2024
+;==========================================
 def main():
       
     # Create SentenceTransformer model
