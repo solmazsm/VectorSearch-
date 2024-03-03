@@ -1,3 +1,9 @@
+;==========================================
+; Title:  sensitivity_analysis
+; Author: Solmaz Seyed Monir
+; Date:   3 March 2024
+;==========================================
+
 def sensitivity_analysis(index_dimensions, similarity_thresholds, pretrained_models):
     results = []
     for model in pretrained_models:
