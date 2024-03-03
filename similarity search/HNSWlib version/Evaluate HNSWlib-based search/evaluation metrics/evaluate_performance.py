@@ -1,3 +1,10 @@
+;==========================================
+; Title:  evaluate_performance
+; Author: Solmaz Seyed Monir
+; Date:   3 March 2024
+;==========================================
+
+
 def evaluate_performance(ground_truth, retrieved_docs):
     retrieved_ids = retrieved_docs.index.tolist()
     relevant_ids = ground_truth
