@@ -1,3 +1,9 @@
+;==========================================
+; Title: AnalyzeResults
+; Author: Solmaz Seyed Monir
+; Date:   3 March 2024
+;==========================================
+
 grouped_results = results_df.groupby(["index_dimension", "similarity_threshold", "pretrained_model"]).mean().reset_index()
 
 # Identify combinations with the highest precision, recall, and lowest query time
