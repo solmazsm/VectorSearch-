@@ -1,3 +1,9 @@
+;==========================================
+; Title: 2d_visualization
+; Author: Solmaz Seyed Monir
+; Date:   3 March 2024
+;==========================================
+
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
