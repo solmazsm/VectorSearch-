@@ -1,3 +1,9 @@
+;==========================================
+; Title: efficient_retrieval
+; Author: Solmaz Seyed Monir
+; Date:   3 March 2024
+;==========================================
+
 import pandas as pd
 import numpy as np
 from sentence_transformers import SentenceTransformer
