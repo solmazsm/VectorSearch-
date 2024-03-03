@@ -1,3 +1,9 @@
+;==========================================
+; Title: cache
+; Author: Solmaz Seyed Monir
+; Date:   3 March 2024
+;==========================================
+
 from sentence_transformers import SentenceTransformer
 
 cache_dir = r"C:\Users\Solmaz\.cache"
