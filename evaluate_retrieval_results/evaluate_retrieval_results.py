@@ -1,3 +1,9 @@
+;==========================================
+; Title: valuate_retrieval_results
+; Author: Solmaz Seyed Monir
+; Date:   3 March 2024
+;==========================================
+
 def evaluate_retrieval_results(retrieved_documents_list, relevant_documents, query_time):
     precision_scores = []
     recall_scores = []
