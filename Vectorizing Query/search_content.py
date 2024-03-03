@@ -1,3 +1,9 @@
+;==========================================
+; Title: semantic search
+; Author: Solmaz Seyed Monir
+; Date:   3 March 2024
+;==========================================
+
 # a semantic search based on a query, evaluates the results using simulated ground truth labels, 
 # calculates the F1 score, generates a classification report, and returns the search results along with their similarities.
 
