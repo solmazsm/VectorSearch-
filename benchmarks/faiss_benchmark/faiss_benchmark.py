@@ -1,3 +1,9 @@
+;==========================================
+; Title: faiss_benchmark
+; Author: Solmaz Seyed Monir
+; Date:   3 March 2024
+;==========================================
+
 def faiss_benchmark(data_array):
     dimension = data_array.shape[1]  # Dimension of the vectors
     nlist = 100  # Number of clusters
