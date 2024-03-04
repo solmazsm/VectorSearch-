@@ -1,3 +1,9 @@
+;==========================================
+; Title: search_similar_documents_faiss
+; Author: Solmaz Seyed Monir
+; Date:   3 March 2024
+;==========================================
+
 import pandas as pd
 from sentence_transformers import SentenceTransformer
 import faiss
