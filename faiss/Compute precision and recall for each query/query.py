@@ -1,3 +1,9 @@
+;==========================================
+; Title: Compute precision and recall for each query
+; Author: Solmaz Seyed Monir
+; Date:   3 March 2024
+;==========================================
+
 for query in queries:
     hnswlib_precision, hnswlib_recall = compute_precision_recall(hnswlib_results[query], relevant_documents[query])
     faiss_precision, faiss_recall = compute_precision_recall(faiss_results[query], relevant_documents[query])
