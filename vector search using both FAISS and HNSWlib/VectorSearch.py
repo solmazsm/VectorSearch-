@@ -1,12 +1,11 @@
-import pandas as pd
-import numpy as np
-from sentence_transformers import SentenceTransformer
+;==========================================
+; Title:  search_similar_documents_hnswlib
+; Author: Solmaz Seyed Monir
+; Date:   3 March 2024
+;==========================================
+
 import faiss
 import hnswlib
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn.model_selection import ParameterGrid
-from tabulate import tabulate
 import time
 
 
