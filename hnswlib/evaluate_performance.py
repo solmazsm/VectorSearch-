@@ -1,3 +1,9 @@
+;==========================================
+; Title: valuate_retrieval_results
+; Author: Solmaz Seyed Monir
+; Date:   3 March 2024
+;==========================================
+
 import pandas as pd
 from sentence_transformers import SentenceTransformer
 import hnswlib
