@@ -1,5 +1,5 @@
 ;==========================================
-; Title: efficient_retrieval
+; Title: cumulative distribution
 ; Author: Solmaz Seyed Monir
 ; Date:   3 March 2024
 ;==========================================
