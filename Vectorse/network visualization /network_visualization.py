@@ -1,3 +1,9 @@
+;==========================================
+; Title: multi-vector search
+; Author: Solmaz Seyed Monir
+; Date:   3 March 2024
+;==========================================
+
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
