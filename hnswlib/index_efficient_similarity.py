@@ -1,5 +1,5 @@
 ;==========================================
-; Title:  title_embeddings
+; Title:  index_efficient_similarity
 ; Author: Solmaz Seyed Monir
 ; Date:   3 March 2024
 ;==========================================
