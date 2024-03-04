@@ -1,3 +1,9 @@
+;==========================================
+; Title: efficient_retrieval
+; Author: Solmaz Seyed Monir
+; Date:   3 March 2024
+;==========================================
+
 import numpy as np
 import matplotlib.pyplot as plt
 
