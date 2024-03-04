@@ -1,3 +1,9 @@
+;==========================================
+; Title: multi-vector search
+; Author: Solmaz Seyed Monir
+; Date:   3 March 2024
+;==========================================
+
 import pandas as pd
 from gensim.models.doc2vec import Doc2Vec, TaggedDocument
 from sentence_transformers import SentenceTransformer, InputExample
