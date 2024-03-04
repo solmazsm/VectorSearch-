@@ -1,5 +1,5 @@
 ;==========================================
-; Title:  title_embeddings
+; Title: search_similar_documents
 ; Author: Solmaz Seyed Monir
 ; Date:   3 March 2024
 ;==========================================
