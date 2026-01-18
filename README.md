@@ -1,4 +1,6 @@
-# VectorSearch https://solmazsm.github.io/VectorSearch/
+# VectorSearch 
+
+https://solmazsm.github.io/VectorSearch/
 
 This folder contains all the necessary implementation to replicate studies presented on 50th International Conference on Very Large Databases, 2024.
 
